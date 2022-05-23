@@ -1,0 +1,16 @@
+C:\Users\harde\workspace\csharp\stringList\bin\Debug\net5.0\stringList.exe
+C:\Users\harde\workspace\csharp\stringList\bin\Debug\net5.0\stringList.deps.json
+C:\Users\harde\workspace\csharp\stringList\bin\Debug\net5.0\stringList.runtimeconfig.json
+C:\Users\harde\workspace\csharp\stringList\bin\Debug\net5.0\stringList.runtimeconfig.dev.json
+C:\Users\harde\workspace\csharp\stringList\bin\Debug\net5.0\stringList.dll
+C:\Users\harde\workspace\csharp\stringList\bin\Debug\net5.0\ref\stringList.dll
+C:\Users\harde\workspace\csharp\stringList\bin\Debug\net5.0\stringList.pdb
+C:\Users\harde\workspace\csharp\stringList\obj\Debug\net5.0\stringList.csproj.AssemblyReference.cache
+C:\Users\harde\workspace\csharp\stringList\obj\Debug\net5.0\stringList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harde\workspace\csharp\stringList\obj\Debug\net5.0\stringList.AssemblyInfoInputs.cache
+C:\Users\harde\workspace\csharp\stringList\obj\Debug\net5.0\stringList.AssemblyInfo.cs
+C:\Users\harde\workspace\csharp\stringList\obj\Debug\net5.0\stringList.csproj.CoreCompileInputs.cache
+C:\Users\harde\workspace\csharp\stringList\obj\Debug\net5.0\stringList.dll
+C:\Users\harde\workspace\csharp\stringList\obj\Debug\net5.0\ref\stringList.dll
+C:\Users\harde\workspace\csharp\stringList\obj\Debug\net5.0\stringList.pdb
+C:\Users\harde\workspace\csharp\stringList\obj\Debug\net5.0\stringList.genruntimeconfig.cache
